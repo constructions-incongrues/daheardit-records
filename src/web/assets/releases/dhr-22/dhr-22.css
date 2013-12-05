@@ -18,7 +18,7 @@ text-align:right;
 .header_news_1_content h1 
 {
 position: relative;
-top:-40px;
+top:40px;
 }
 
 
@@ -26,8 +26,8 @@ top:-40px;
 {
 color:#FFF;
 font-weight:lighter;
-font-size:38px;
-font-size:3.8rem;
+font-size:50px;
+font-size:5rem;
 opacity:0.9;}
 
 .header_news_1_content h2 a 
@@ -37,10 +37,10 @@ font-weight:lighter;
 font-size:32px;
 font-size:3.2rem;
 opacity:0.9;
-}
+text-transform: capitalize;}
 
 .header_news_1_content h2 
 {
 position: relative;
-top:-30px;
+top:50px;
 }
