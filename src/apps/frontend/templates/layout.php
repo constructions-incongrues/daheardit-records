@@ -162,7 +162,7 @@
            
 
             <p>
-           <a href="mailto:contact@daheardit-records.net">contact@daheardit-records.net</a> <br />
+           <a href="mailto:contact@daheardit-records.net">Johan (curator)</a> <br />
 
             <a href="http://www.thibaulthuertas.com/">Thibault Huertas (design)</a>  <br />
               <a href="http://www.constructions-incongrues.net">Constructions Incongrues (code)</a> <br />
